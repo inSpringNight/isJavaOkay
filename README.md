@@ -1,1 +1,3 @@
 # isJavaOkay
+
+for learning use.
